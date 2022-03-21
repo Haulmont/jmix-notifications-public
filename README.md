@@ -1,3 +1,1 @@
-# Jmix Notifications Issues
-
-This repository is for [issue tracking](https://github.com/Haulmont/jmix-notifications-public/issues) only.
+This repository is DEPRECATED, use https://github.com/jmix-framework/jmix/issues for creating issues.
